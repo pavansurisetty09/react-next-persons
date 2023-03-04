@@ -44,7 +44,7 @@
 
 .card-container {
   position: relative;
-  width: 40%;
+  width: 42%;
   height: 10vh;
   left: 29%;
   top: 32%;
@@ -114,7 +114,7 @@
   font-weight: 200;
 }
 
-/* @media only screen and (max-width: 1300px) {
+@media only screen and (max-width: 1300px) {
   .title {
     white-space: nowrap;
     font-size: small;
@@ -191,4 +191,4 @@
   .bottom-chunk {
     width: 146%;
   }
-} */
+}
